@@ -1,6 +1,10 @@
 # cv-tailwind
 
+Cv avec darkmode
+Tailwind / flowbite
+
 <h1>Install</h1>
+
 
 git clone https://github.com/spidercodeur/cv-tailwind
 
@@ -14,3 +18,5 @@ npm run start
 
 <h2>Compile</h2>
 npm run prod
+
+<img src="/src/cv-developpeur-tailwind.png"">
