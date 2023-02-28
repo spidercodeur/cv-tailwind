@@ -18,5 +18,3 @@ npm run start
 
 <h2>Compile</h2>
 npm run prod
-
-<img src="/src/cv-developpeur-tailwind.png"">
