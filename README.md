@@ -3,6 +3,7 @@
 <h1>Install</h1>
 
 git clone https://github.com/spidercodeur/cv-tailwind
+
 npm install
 
 
