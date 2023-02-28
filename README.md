@@ -9,8 +9,8 @@ cd cv-tailwind
 npm install
 
 
-<b>edit:</b>
+<h2>Edit</h2>
 npm run start
 
-<b>compile all:</b>
+<h2>Compile</h2>
 npm run prod
