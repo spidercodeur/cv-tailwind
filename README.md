@@ -19,4 +19,4 @@ npm run start
 <h2>Compile</h2>
 npm run prod
 
-![alt text](https://github.com/spideurcodeur/cv-tailwind/src/img/cv-developpeur-tailwind.png?raw=true)
+![alt text](https://raw.githubusercontent.com/spidercodeur/cv-tailwind/main/src/img/cv-developpeur-tailwind.png)
