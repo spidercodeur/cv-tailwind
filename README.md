@@ -4,11 +4,13 @@
 
 git clone https://github.com/spidercodeur/cv-tailwind
 
+cd cv-tailwind
+
 npm install
 
 
-edit:
+<b>edit:</b>
 npm run start
 
-compile all:
+<b>compile all:</b>
 npm run prod
