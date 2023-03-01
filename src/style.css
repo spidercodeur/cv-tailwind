@@ -2,20 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+
 h2 {
-  @apply mb-2 text-4xl font-bold text-primary font-bold dark: text-dark_primary;
+  @apply mb-2 text-4xl font-bold text-primary font-bold dark:text-dark_primary;
 }
 
 h3 {
-  @apply mb-1 text-xl text-secondary font-medium dark: text-white;
+  @apply mb-1 text-xl text-secondary font-medium dark:text-white;
 }
 
 p {
-  @apply mb-3 text-gray-800 dark: text-gray-200 text-sm;
+  @apply mb-3 text-gray-800 dark:text-gray-200 text-sm;
 }
 
 .skill {
-  @apply transition duration-500 mr-2 my-1 rounded-full border px-4 text-xs py-1 font-medium bg-stone-200 dark: bg-stone-100;
+  @apply transition duration-500 mr-2 my-1 rounded-full border px-4 text-xs py-1 font-medium bg-stone-200 dark:bg-stone-100;
 }
 
 .conseiller p {
@@ -24,15 +25,15 @@ p {
 }
 
 .conseiller h4 {
-  @apply text-sm font-medium text-gray-800 dark: text-white;
+  @apply text-sm font-medium text-gray-800 dark:text-white;
 }
 
 .conseiller li {
-  @apply md: pr-2
+  @apply md:pr-2
 }
 
 .precision small {
-  @apply text-xs text-gray-600 dark: text-gray-400;
+  @apply text-xs text-gray-600 dark:text-gray-400;
 }
 
 .dark path {
