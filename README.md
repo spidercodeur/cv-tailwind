@@ -6,10 +6,13 @@ Tailwind / flowbite
 <h1>Install</h1>
 
 git clone https://github.com/spidercodeur/cv-tailwind
+
 cd cv-tailwind
+
 npm install 
 
-Delete .parcel-cache folder
+Delete .parcel-cache folder:
+
 sudo rm -rf .parcel-cache
 
 
